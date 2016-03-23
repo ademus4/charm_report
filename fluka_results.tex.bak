@@ -301,7 +301,7 @@ cp\_OOOO R10 	& 0.190 & 0.782 & 1.665 \\
 \begin{figure}[ht!]
 	\centering
 	\includegraphics[width=0.7\textwidth]{./images/hardness/space_charm_comparison}
-	\caption{A plot of the reverse integral HEH spectrum for the proton belt (Proba II orbit), with a number of CHARM test configurations with close matches.}
+	\caption{A plot of the reverse integral HEH spectrum for the proton belt (Proba II orbit), with a number of CHARM test configurations with close matches. The contribution from the galactic cosmic-rays causes the deviation at high energy which moves away from the spectra seen at the CHARM test positions, however this only represents less then 1\% of the total spectrum.}
 	\label{fig:space_charm_comparison}
 \end{figure}
 
@@ -314,7 +314,7 @@ cp\_OOOO R10 	& 0.190 & 0.782 & 1.665 \\
 \hline
 \rowcolor{gray!30} Proba II & 0.094 & 0.273 & 1.406 \\
 cp\_CIOO R10	& 0.094 & 0.389 & 1.080 \\
-al\_OOOO R2		& 0.068 & 0.200 & 0.428 \\
+al\_OOOO R2	& 0.068 & 0.200 & 0.428 \\
 cp\_OOOO R3 	& 0.090 & 0.314 & 0.691 \\
 \end{tabular}%
 \caption{}
@@ -325,11 +325,11 @@ cp\_OOOO R3 	& 0.090 & 0.314 & 0.691 \\
 
 \subsection{Copper Target without Shielding}
 
-The following results chapter focuses on the analysis of the calculations using the copper target configuration without shielding (\textbf{cp\_OOOO}). The same tables and plots for the other facility configurations can be found in the appendix. All results tables can also be found at \url{http://thornton.web.HEH.ch/}  \\
+The following results chapter focuses on the analysis of the calculations using the copper target configuration without shielding (\textbf{cp\_OOOO}). The same tables and plots for the other facility configurations can be found in the appendix. All results tables can also be found at \url{http://thornton.web.cern.ch/}  \\
 
 The data for all test positions in the cp\_OOOO configuration are shown in table \ref{tab:cpOOOO-alldata}. The results include dose and HEH fluence rates per day (normalised for 1.5E15 protons), spectra content as a percentage of the total HEH fluence, 'R' factors and hardness factors. \\
 
-An example plot of the spectra seen at a test location is shown in figure \ref{fig:cpOOOO_spectra}. the plot shows the relative fluences (arbitrary values) for a range of different particles. Of particular interest is the neutron spectrum which typically has a much larger energy range than the other particles, and is strongly influenced by the shielding and position of the test device. \\
+An example plot of the spectra seen at a test location is shown in figure \ref{fig:cpOOOO_spectra}. The plot shows the relative fluences (arbitrary values) for a range of different particles. Of particular interest is the neutron spectrum which typically has a much larger energy range than the other particles, and is strongly influenced by the shielding and position of the test device. The artificial lower thresholds seen for electrons and photons at 1 MeV is due to the NEWDEFA threshold settings used for the simulations and is not strictly a physical phenomena. \\
 
 The dose and HEH fluence varies largely depending on the position within the test area, and this is shown in figures \ref{fig:cpOOOO_dosemap} and \ref{fig:cpOOOO_HEHmap}. The plots show the dose and HEH fluence mapped out at the beam height for the whole test area. Large gradients can be seen at the test positions close to the beam axis, therefore testing in these positions should be analysed and set-up carefully, ideally with small test equipment to minimise the variation within the device. Some 'shadows' can be seen in the HEH fluence due to the interaction with the shielding support beams. This is true for all targets, but has less of an impact when using the shielding. \\
 
@@ -362,7 +362,7 @@ The dose and HEH fluence varies largely depending on the position within the tes
 \begin{figure}[!ht]
 	\centering
 	\includegraphics[scale=0.6]{./images/spectra_cp_OOOO_r5}
-	\caption{An example plot of the radiation spectra at a test position for the facility configuration with the the copper target without shielding.}
+	\caption{An example plot of the radiation spectra at a test position for the facility configuration with the the copper target without shielding. An artificial cut-off of electrons and photons can be seen at 1 MeV, and this is not a physical phenomena but one caused by the threshold setting used for the FLUKA simulations.}
 	\label{fig:cpOOOO_spectra}
 \end{figure}
 
@@ -389,4 +389,4 @@ The geometry for the CHARM FLUKA calculations was built using the Flair tool \ci
 
 The accuracy of the test positions within the test facility was also verified during tests of the conveyor system, and can be considered accurate within 1-2cm in each axis. Another error to consider at the test positions is related to the gradients of the radiation, i.e. in positions close to the beam axis, the radiation field can very up to 1\% per centimetre. Therefore the physical size of the test equipment needs to be considered when choosing the test position with the facility. \\
 
-A more detailed analysis of the errors and gradients in the test positions will follow. \\
+A more detailed analysis of the errors and gradients in the test positions will be prese \\
