@@ -1,0 +1,41 @@
+\documentclass{accnote}
+\def\docnumber{12345}
+\def\emailaddress{adam.thornton@cern.ch}
+
+\pagestyle{fancy}
+\input{configuration_ats}
+\begin{document}
+
+\title{CHARM Facility Test Area Radiation Field Description}
+\author{A. Thornton}
+\institute{CERN and University of Surrey}
+\maketitle
+
+\begin{NoteAbstract}
+Specification document summarising the radiation field of the CHARM facility test area. This will act as a guide to any potential users of the facility as to what they can expect in terms of radiation, given in the form of radiation spectra information and fluence for each test position, along with general radiation maps for the test area and Montrac test location. \\
+\end{NoteAbstract}
+\begin{Keywords}
+CERN East Area, CERN LHC-R2E, keyword 3.
+\end{Keywords}
+
+\newpage
+\pagenumbering{roman}
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+\include{intro}
+\include{facility_desc}
+\include{rad_field}
+\include{fluka_results}
+\include{test_results}
+\include{summary}
+
+\bibliographystyle{plain}
+\bibliography{./references}
+
+\newpage
+\appendix
+\include{appendix}
+
+\end{document}

@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.0.1}
+\contentsline {section}{\numberline {2}Facility Description}{3}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Facility Configuration}{6}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Beam Instrumentation}{8}{subsection.0.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Beam Intensity Monitoring}{8}{subsubsection.0.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Beam Position and Size Monitoring}{8}{subsubsection.0.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Beam Specification}{8}{subsection.0.2.3}
+\contentsline {subsection}{\numberline {2.4}Operating Conditions}{9}{subsection.0.2.4}
+\contentsline {section}{\numberline {3}Radiation Field}{13}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Quantifying the Radiation Field}{13}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {3.2}Metrics}{13}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {3.3}Standards and Environments}{16}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {3.4}FLUKA Calculations}{17}{subsection.0.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}FLUKA Geometry}{17}{subsubsection.0.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}FLUKA Physics Configuration}{17}{subsubsection.0.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Scoring}{18}{subsubsection.0.3.4.3}
+\contentsline {section}{\numberline {4}FLUKA Results}{19}{section.0.4}
+\contentsline {subsection}{\numberline {4.1}Overview}{19}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {4.2}Hardness Factors}{25}{subsection.0.4.2}
+\contentsline {subsection}{\numberline {4.3}Copper Target without Shielding}{30}{subsection.0.4.3}
+\contentsline {subsection}{\numberline {4.4}Uncertainties}{33}{subsection.0.4.4}
+\contentsline {section}{\numberline {5}Measurements and Testing}{34}{section.0.5}
+\contentsline {section}{\numberline {6}Summary}{36}{section.0.6}
+\contentsline {section}{\numberline {A}Appendix}{38}{section.Alph0.1}
+\contentsline {subsection}{\numberline {A.1}Facility Information}{38}{subsection.Alph0.1.1}
+\contentsline {subsection}{\numberline {A.2}FLUKA Data}{38}{subsection.Alph0.1.2}

@@ -1,0 +1,612 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@TechReport{argonion_1981,
+  Title                    = {{A Sealed Metal Argon Ionisation Chamber (Argonion)}},
+  Author                   = {Agoritasas, V.},
+  Institution              = {CERN, Geneva, Switzerland},
+  Year                     = {1981}
+}
+
+@Article{Agoritsas:299104,
+  Title                    = {{Secondary emission chambers for monitoring the CERN Proton Synchrotron ejected beams. Secondary emission chambers for monitoring the CPS ejected beams}},
+  Author                   = {Agoritsas, V},
+  Year                     = {1968},
+  Number                   = {CERN-MPS-Int-CO-68-9},
+  Pages                    = {35 p}
+}
+
+@Article{antonakakis_2013,
+  Title                    = {{Closed form solutions of the heat diffusion equation with a Gaussian source}},
+  Author                   = {Antonakakis, T. and Maglioni, C. and Vlachoudis, V.},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2013},
+  Number                   = {0},
+  Pages                    = {314--322},
+  Volume                   = {62},
+
+  Doi                      = {10.1016/j.ijheatmasstransfer.2013.02.061},
+  ISSN                     = {0017-9310},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0017931013001853}
+}
+
+@Article{h4irrad_gen,
+  Title                    = {{H4IRRAD General Studies, ATS note (to be published)}},
+  Author                   = {{B. Biskup}, M. Calviani, M. Brugger, I. Efthymiopoulos},
+  Year                     = {2011}
+}
+
+@Misc{fluka_website,
+  Title                    = {{FLUKA Website}},
+
+  Author                   = {Battistoni, Giuseppe and Cerutti, F and Fass\`{o}, A and Ferrari, A and Muraroi, S and Ranft, J and Roesler, S and Sala, P R},
+  HowPublished             = {\url{http://www.fluka.org/}},
+  Note                     = {Accessed: 2014-05-19}
+}
+
+@Article{FLUKA1,
+  Title                    = {{The FLUKA code: Description and benchmarking}},
+  Author                   = {Battistoni, Giuseppe and Cerutti, F and Fass\`{o}, A and Ferrari, A and Muraroi, S and Ranft, J and Roesler, S and Sala, P R},
+  Journal                  = {AIP Conf. Proc.},
+  Year                     = {2007},
+  Number                   = {SLAC-REPRINT-2007-184},
+  Pages                    = {31--49. 19 p},
+  Volume                   = {896}
+}
+
+@Article{Baumann2001211,
+  Title                    = {Neutron-induced 10B fission as a major source of soft errors in high density \{SRAMs\} },
+  Author                   = {Robert C. Baumann and Eric B. Smith},
+  Journal                  = {Microelectronics Reliability },
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {211 - 218},
+  Volume                   = {41},
+
+  Doi                      = {http://dx.doi.org/10.1016/S0026-2714(00)00218-3},
+  ISSN                     = {0026-2714},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0026271400002183}
+}
+
+@Article{4328188,
+  Title                    = {{Satellite Anomalies from Galactic Cosmic Rays}},
+  Author                   = {Binder, D. and Smith, E.C. and Holman, A. B.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {1975},
+
+  Month                    = {Dec},
+  Number                   = {6},
+  Pages                    = {2675--2680},
+  Volume                   = {22},
+
+  Doi                      = {10.1109/TNS.1975.4328188},
+  ISSN                     = {0018-9499},
+  Keywords                 = {Artificial satellites; Capacitance; Cosmic rays; Digital circuits; Electron beams; Flip-flops; Ionization; Plasma temperature; Scanning electron microscopy; Voltage}
+}
+
+@Article{h4irrad_com,
+  Title                    = {{Commissioning and Operation of the H4IRRAD Mixed-Field Test Area}},
+  Author                   = {Biskup, B and Brugger, M and Calviani, M and Efthymiopoulos, I and Kwee, R and Mekki, J and {La Torre}, F and Lebbos, E and Mala, P and Manessi, G and Nordt, A and Pozzi, F and Roeed, K and Severino, C and Silari, M and Thornton, A},
+  Year                     = {2011},
+
+  Month                    = {Dec}
+}
+
+@TechReport{brugger_r2e_2011,
+  Title                    = {{Radiation to Electronics: Reality or Fata Morgana?}},
+  Author                   = {Boccone, V. and Brugger, M. and Calviani, M. and Ferrari, A. and Kramer, D. and Losito, R. and ed, K. R\o and Roesler, S. and Spiezia, G. and Thornton, A. and Thurel, Y.},
+  Institution              = {CERN, Geneva, Switzerland}
+}
+
+@Article{Bosser_2004,
+  Title                    = {{New Beam Profile Monitor Based on GEM Detector for the AD Transfer and Experimental Lines}},
+  Author                   = {Bosser, Jacques and Gnanvo, K and Spanggaard, J and Tranquille, G},
+  Year                     = {2004},
+
+  Month                    = {Aug},
+  Note                     = {revised version submitted on 2004-09-28 17:14:21},
+  Number                   = {CERN-AB-2004-089}
+}
+
+@Article{Bravin:2005vb,
+  Title                    = {{A new TV beam observation system for CERN}},
+  Author                   = {Bravin, E. and Burger, S. and Ferioli, G. and Focker, G.J. and Guerrero, A. and others},
+  Year                     = {2005},
+  Pages                    = {212--214},
+
+  Reportnumber             = {CERN-AB-2005-076},
+  Slaccitation             = {\%\%CITATION = CERN-AB-2005-076 ETC.;\%\%}
+}
+
+@Misc{R2E_website,
+  Title                    = {{CERN R2E Website}},
+
+  Author                   = {Brugger, Markus},
+  HowPublished             = {\url{http://r2e.web.cern.ch/r2e/}},
+  Note                     = {Accessed: 2014-05-19}
+}
+
+@Article{R2E_BI,
+  Title                    = {{R2E Project \& Organisation (Presentation)}},
+  Author                   = {Brugger, Markus},
+  Year                     = {2013},
+
+  Month                    = nov,
+  Note                     = {CERN Radiation 2 Electronics (R2E) -- BI - Review},
+
+  Organization             = {CERN}
+}
+
+@Misc{MCWG_website,
+  Title                    = {{CERN MCWG Website }},
+
+  Author                   = {Calviani, Marco},
+  HowPublished             = {\url{https://indico.cern.ch/category/3171/}},
+  Note                     = {Accessed: 2014-05-19}
+}
+
+@TechReport{Danzeca_cypress_2012,
+  Title                    = {{Cypress and Toshiba Memory Radiation Test Report at PSI}},
+  Author                   = {Danzeca, S. and Spiezia, G.},
+  Year                     = {2012},
+
+  Location                 = {Geneva},
+  Organization             = {CERN}
+}
+
+@Article{6949151,
+  Title                    = {Qualification and Characterization of SRAM Memories Used as Radiation Sensors in the LHC},
+  Author                   = {Danzeca, S. and Spiezia, G. and Brugger, M. and Dusseau, L. and Foucard, G. and Alia, R.G. and Mala, P. and Masi, A. and Peronnard, P. and Soltes, J. and Thornton, A. and Viererbl, L.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2014},
+
+  Month                    = {Dec},
+  Number                   = {6},
+  Pages                    = {3458-3465},
+  Volume                   = {61},
+
+  Doi                      = {10.1109/TNS.2014.2365042},
+  ISSN                     = {0018-9499},
+  Keywords                 = {SRAM chips;radiation hardening (electronics);semiconductor device testing;sensors;LHC mixed radiation field;SRAM memories;TID;burst multiple events;control circuitry;electron volt energy 30 MeV to 480 MeV;high energy hadron fluence sensor;large hadron collider;radiation sensors;size 90 nm;thermal neutrons;Ionizing radiation sensors;Large Hadron Collider;Radiation effects;SRAM cells;Semiconductor device measurement;Single event upsets;Test facilities;Large hadron collider (LHC) radiation monitoring;SRAM;single event upsets (SEU) monitor;single-event effects (SEEs);single-event effects (SEEs) characterization;test facilities}
+}
+
+@TechReport{delonca_2014,
+  Title                    = {{Target CHARM: Numerical Analysis Report}},
+  Author                   = {Delonca, M.},
+  Institution              = {CERN, Geneva, Switzerland},
+  Year                     = {2014},
+
+  Url                      = {https://edms.cern.ch/document/1343688/1}
+}
+
+@Book{FLUKA2,
+  Title                    = {{FLUKA: A multi-particle transport code (program version 2005)}},
+  Author                   = {Ferrari, A and Sala, Paola R and Fass\`{o}, A and Ranft, Johannes},
+  Publisher                = {CERN},
+  Year                     = {2005},
+
+  Address                  = {Geneva}
+}
+
+@Unpublished{Froeschl_private,
+  Title                    = {{RP Studies for CHARM}},
+  Author                   = {Froeschl, Robert},
+  Note                     = {(private communication)}
+}
+
+@Article{7312510,
+  Title                    = {SEL Hardness Assurance in a Mixed Radiation Field},
+  Author                   = {Garcia Alia, R. and Brugger, M. and Danzeca, S. and Ferlet-Cavrois, V. and Frost, C. and Gaillard, R. and Mekki, J. and Saigne, F. and Thornton, A. and Uznanski, S. and Wrobel, F.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2015},
+  Number                   = {99},
+  Pages                    = {1-8},
+  Volume                   = {PP},
+
+  Doi                      = {10.1109/TNS.2015.2477597},
+  ISSN                     = {0018-9499},
+  Keywords                 = {Mesons;Neutrons;Particle beams;Protons;Random access memory;Sensitivity;Standards;CERN;CHARM radiation facility;FLUKA;Monte Carlo methods;hardness assurance;high-Z materials;large hadron collider (LHC);single event latchup (SEL)}
+}
+
+@TechReport{Gatignon2013,
+  Title                    = {{Beam Properties for the East Area Irradiation Facility in the T8 Beam Line}},
+  Author                   = {Gatignon, Lau and others},
+  Institution              = {CERN, Geneva, Switzerland},
+  Year                     = {2013}
+}
+
+@InProceedings{Spanggaard_2004,
+  Title                    = {{Gas electron multiplier beam profile monitor}},
+  Author                   = {Gnanvo, Kondo and Ropelewski, L. and Sauli, F. and Spanggaard, J. and Tranquille, G.},
+  Booktitle                = {{Nuclear Science Symposium Conference Record, 2004 IEEE}},
+  Year                     = {2004},
+  Month                    = {Oct},
+  Pages                    = {1793--1797 Vol. 3},
+  Volume                   = {3},
+
+  Doi                      = {10.1109/NSSMIC.2004.1462591},
+  ISSN                     = {1082-3654},
+  Keywords                 = {drift chambers; electron multiplier detectors; particle beam diagnostics; CERN low energy antiproton decelerator; GEM detector; GEM profile monitor; antiproton decelerator beam; beam steering; gain drop; gas electron multiplication; gas electron multiplier beam profile monitor; transfer lines; Beam steering; Costs; Detectors; Electron beams; Electron multipliers; Energy measurement; Monitoring; Robustness; Spatial resolution; Wire}
+}
+
+@Article{Gousiou:1235893,
+  Title                    = {{Radiation Tests on the Complete System of the Instrumentation of the LHC Cryogenics at the CERN Neutrinos to Gran Sasso (CNGS) Test Facility}},
+  Author                   = {Gousiou, E and {Fernandez Penacoba}, G and {Casas Cubillos}, J and de la Gama Serrano, J},
+  Year                     = {2010},
+
+  Month                    = {Jan},
+  Number                   = {CERN-ATS-2010-013},
+  Pages                    = {5 p}
+}
+
+@Book{rad_effects_handbook,
+  Title                    = {{Handbook of Radiation Effects}},
+  Author                   = {Holmes-Siedle, Andrew and Adams, Len and others},
+  Publisher                = {Oxford University Press},
+  Year                     = {2002},
+  Edition                  = {2},
+
+  Altauthor                = {A. Holmes-Siedle, L. Adams},
+  Optedition               = {2}
+}
+
+@InProceedings{blm_paper,
+  Title                    = {{Beam loss monitoring system for the LHC}},
+  Author                   = {Holzer, E.B. and Dehning, B. and Effinger, E. and Emery, J. and Ferioli, G. and Gonzalez, J-L. and Gschwendtner, E. and Guaglio, G. and Hodgson, M. and Kramer, D. and Leitner, R. and Ponce, L. and Prieto, V. and Stockner, M. and Zamantzas, C.},
+  Booktitle                = {{Nuclear Science Symposium Conference Record, 2005 IEEE}},
+  Year                     = {2005},
+  Month                    = {Oct},
+  Pages                    = {1052--1056},
+  Volume                   = {2},
+
+  Doi                      = {10.1109/NSSMIC.2005.1596433},
+  ISSN                     = {1095-7863},
+  Keywords                 = {beam handling techniques; colliding beam accelerators; ionisation chambers; particle beam diagnostics; proton accelerators; readout electronics; storage rings; synchrotrons; LHC; analogue readout electronic; beam loss monitoring system; collimators; critical beam losses; data links; digital readout electronic; dump signal; integration times; ionization chambers; loss mechanism; one turn trigger generation; secondary emission monitors; superconducting magnets; tolerable failure rate; trigger decision logic; Colliding beam devices; Collimators; Dynamic range; Large Hadron Collider; Loss measurement; Machine components; Monitoring; Particle measurements; Protection; Superconducting magnets}
+}
+
+@PhdThesis{roeed_thesis,
+  Title                    = {{Single Event Upsets in SRAM FPGA based readout electronics for the Time Projection Chamber in the ALICE experiment}},
+  Author                   = {{K. R\o ed}, and Ullaland, K. and Helstrup, H. and Nat{\aa}s, T.},
+  School                   = {Bergen University, Bergen, Norway},
+  Year                     = {2009}
+}
+
+@TechReport{roeed_ptb,
+  Title                    = {{PTB Irradiation tests of the LHC Radiation Monitor (RadMon)}},
+  Author                   = {{K. R\o ed}, M. Brugger, C. Pignard},
+  Institution              = {CERN, Geneva, Switzerland},
+  Year                     = {2011}
+}
+
+@Article{Koziol:499098,
+  Title                    = {{Beam Diagnostics for Accelerators; 2005 ed.}},
+  Author                   = {Koziol, Heribert},
+  Year                     = {2001},
+
+  Month                    = {May},
+  Number                   = {CERN-PS-2001-012-DR}
+}
+
+@Article{Kramer:1399765,
+  Title                    = {{LHC RadMon SRAM Detectors Used at Different Voltages to Determine the Thermal Neutron to High Energy Hadron Fluence Ratio}},
+  Author                   = {Kramer, D and Viererbl, L and Pignard, C and Brugger, M and Spiezia, G and Roeed, K and Klupak, V and Wijnands, T},
+  Journal                  = {IEEE Trans. Nucl. Sci.},
+  Year                     = {2011},
+  Note                     = {2010 Conference on Radiation and its Effects on Components and Systems (RADECS), Langenfeld, AUSTRIA, SEP 20-24, 2010},
+  Number                   = {3, Part 2},
+  Pages                    = {1117--1122},
+  Volume                   = {58}
+}
+
+@Misc{NAA,
+  Title                    = {{Nuclear Activation Analysis}},
+
+  Author                   = {Kubesova, Marie},
+  HowPublished             = {\url{https://www-nds.iaea.org/exfor/endf.htm}},
+  Note                     = {Accessed: 2014-05-19}
+}
+
+@Unpublished{Lebbos,
+  Title                    = {{LHC Point 7 FLUKA Simulaton Analysis}},
+  Author                   = {Lebbos, E},
+  Note                     = {unpublished},
+  Year                     = {2009},
+
+  Location                 = {Geneva, Switzerland},
+  Organization             = {CERN}
+}
+
+@Article{lebbos_2011,
+  Title                    = {{East Area Irradiation Test Facility: Preliminary FLUKA calculations}},
+  Author                   = {Lebbos, E and Brugger, M and Calviani, M and Gatignon, L and Glaser, M and Moll, M},
+  Journal                  = {CERN Note},
+  Year                     = {2011},
+
+  Month                    = {9}
+}
+
+@Booklet{radecs2014shortcourse,
+  Title                    = {Radiation Effects, Calculation Methods and Radiation Test Challenges in Accelerator Mixed Particle and Energy Environments},
+  Author                   = {M. Brugger, R.G. Alia, S. Danzeca, R. Denz, J. Mekki, P. Oser, P. Peronnard, J. P. De Carvalho Saraiva, G. Spiezia, Y. Thurel S. Uznanski},
+  HowPublished             = {{RADECS 2014 Short Course}},
+  Year                     = {2014},
+
+  Timestamp                = {2015.11.04}
+}
+
+@Article{Mitaroff:609052,
+  Title                    = {{The CERN-EU high-energy reference field (CERF) facility for dosimetry at commercial flight altitudes and in space}},
+  Author                   = {Mitaroff, Angela and Silari, Marco},
+  Journal                  = {Radiat. Prot. Dosim.},
+  Year                     = {2002},
+  Number                   = {CERN-TIS-2001-006-RP-PP. 1},
+  Pages                    = {7--22},
+  Volume                   = {102}
+}
+
+@TechReport{charmcalibration,
+  Title                    = {{CHARM Calibration Report 2014-2015}},
+  Author                   = {N. Mota},
+  Institution              = {CERN},
+  Year                     = {2015},
+  Type                     = {(draft)},
+
+  Timestamp                = {2015.11.05}
+}
+
+@Article{273514,
+  Title                    = {{Altitude and latitude variations in avionics SEU and atmospheric neutron flux}},
+  Author                   = {Normand, E. and Baker, T. J.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {1993},
+
+  Month                    = {Dec},
+  Number                   = {6},
+  Pages                    = {1484--1490},
+  Volume                   = {40},
+
+  Doi                      = {10.1109/23.273514},
+  ISSN                     = {0018-9499},
+  Keywords                 = {SRAM chips; aerospace instrumentation; aerospace simulation; neutron effects; radiation hardening (electronics); Wilson-Nealy atmospheric neutron model; altitude variations; atmospheric neutron flux; avionics SEU; latitude variations; solar activity; static random-access memories; Aerospace electronics; Aircraft; Atmosphere; Atmospheric measurements; Atmospheric modeling; Neutrons; Protons; Random access memory; Shape measurement; Single event upset}
+}
+
+@TechReport{charm_safety_file,
+  Title                    = {{CHARM Safety File (Descriptive Part)}},
+  Author                   = {Phan, D.},
+  Note                     = {EDMS no. 1352782},
+
+  HowPublished             = {draft},
+  Location                 = {Geneva, Switzerland},
+  Organization             = {CERN}
+}
+
+@TechReport{pozzi2015,
+  Title                    = {{Beam Intensity Monitoring at the IRRAD Proton Facility via 27Al(p,3pn)24Na Activation Reaction}},
+  Author                   = {Fabio Pozzi},
+  Institution              = {CERN},
+  Year                     = {2015},
+
+  Address                  = {CH1211 Geneve 23 Switzerland},
+  Number                   = {1554165},
+  Type                     = {EDMS Report},
+
+  Comment                  = {CERN-RP-2015-094-REPORTS-TN},
+  Timestamp                = {2015.11.04}
+}
+
+@InProceedings{PTB1,
+  Title                    = {{The PTB neutron reference fields (PIAF)-quasi-monoenergetic neutron reference fields in the energy range from thermal to 200 MeV}},
+  Author                   = {R\"{o}ttger, S. and B\"{o}ttger, R. and Brooks, F. D. and Buffler, A. and Meulders, J.-P. and Nolte, R. and Smit, F. D. and Wissmann, F.},
+  Year                     = {2009},
+  Pages                    = {375--381},
+  Volume                   = {1175},
+
+  Chapter                  = {4TH INTERNATIONAL WORKSHOP ON NUCLEAR FISSION AND FISSION-PRODUCT SPECTROSCOPY},
+  Journal                  = {AIP Conference Proceedings}
+}
+
+@Article{roeed2012,
+  Title                    = {{Method for Measuring Mixed Field Radiation Levels Relevant for SEEs at the LHC}},
+  Author                   = {Roeed, K. and Brugger, M. and Kramer, D. and Peronnard, P. and Pignard, C. and Spiezia, G. and Thornton, A.},
+  Journal                  = {{Nuclear Science, IEEE Transactions on}},
+  Year                     = {2012},
+  Number                   = {4},
+  Pages                    = {1040--1047},
+  Volume                   = {59},
+
+  Abstract                 = {At the Large Hadron Collider (LHC), installed electronics will be exposed to a radiation field of mixed particles over a wide range of energies. While Monte Carlo transport codes can be used for calculations and predictions of radiation levels, the complex operation and layout of the LHC accelerator give rise to unavoidable uncertainties. Dedicated radiation monitors are therefore installed in locations of the electronics to provide an online measurement of the radiation levels pertinent to single-event upsets (SEUs). This paper addresses the method that has been applied to calibrate these radiation monitors for their use in mixed radiation fields. New irradiation tests to determine the sensitivity to neutrons from a few megaelectronvolts to 20 MeV will be presented along with additional irradiation tests with high-energy protons .},
+  Doi                      = {10.1109/TNS.2012.2183677},
+  ISSN                     = {0018-9499},
+  Publisher                = {IEEE},
+  Url                      = {http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6153409},
+  X-fetchedfrom            = {IEEEXplore}
+}
+
+@Article{Rosenfeld01101990,
+  Title                    = {{P-I-N Diodes with a Wide Measurement Range of Fast Neutron Doses}},
+  Author                   = {Rosenfeld, A.B. and Anokhin, I.E. and Barabash, L.I. and Zinets, O.S. and Litovchenko, P.G. and Khivrich, V.I. and Belovodskiy, L.F. and Dumik, A.I. and Forminych, V.I. and Petrov, V.I. and Sluchenkov, G.F. and Koval, G.N.},
+  Journal                  = {Radiation Protection Dosimetry},
+  Year                     = {1990},
+  Number                   = {1-4},
+  Pages                    = {175--178},
+  Volume                   = {33},
+
+  Abstract                 = {The effect of fast neutron irradiation on the properties of wide-base p-i-n diodes has been investigated both theoretically and experimentally. Dependence of the base voltage on irradiation dose was studied for diodes at intermediate level injection. The change in resistivity of silicon under neutron irradiation should be taken into account as well as change in the carrier lifetime. The main contribution to the I-V curve shift of the wide-base p-i-n diode arises from the resistivity change for doses larger than 20-30 Gy. Such diodes have a high radiation sensitivity (above 5 V.Gy-1 for diodes with base width of 0.5 cm made of silicon with resistivity of 5x104 O.cm). Using p-i-n diodes at intermediate level injection one can significantly widen the measurement range of fast neutron doses.},
+  Eprint                   = {http://rpd.oxfordjournals.org/content/33/1-4/175.full.pdf+html},
+  Url                      = {http://rpd.oxfordjournals.org/content/33/1-4/175.abstract}
+}
+
+@InProceedings{Sauli:117989,
+  Title                    = {{Principles of operation of multiwire proportional and drift chambers}},
+  Author                   = {Sauli, Fabio},
+  Year                     = {1977},
+
+  Address                  = {Geneva},
+  Note                     = {CERN, Geneva, 1975 - 1976},
+  Organization             = {CERN},
+  Pages                    = {92 p},
+  Publisher                = {CERN}
+}
+
+@Article{Schacher:1378821,
+  Title                    = {{DIRAC experiment at CERN: Observation and lifetime measurement of dimeson atoms}},
+  Author                   = {Schacher, J},
+  Journal                  = {SPG Mitteilungen},
+  Year                     = {2010},
+  Number                   = {DIRAC-PUB-2010-01},
+  Pages                    = {6--7},
+  Volume                   = {30},
+
+  Collaboration            = {on behalf of the DIRAC collaboration}
+}
+
+@Misc{RADWG_website,
+  Title                    = {{CERN RADWG Website }},
+
+  Author                   = {Spiezia, Giovanni},
+  HowPublished             = {\url{http://radwg.web.cern.ch/radwg/}},
+  Note                     = {Accessed: 2014-05-19}
+}
+
+@Article{Spiezia:2011jp,
+  Title                    = {{The LHC Radiation Monitoring System - RadMon}},
+  Author                   = {Spiezia, Giovanni and Mekki, Julien and Batuca, Sergio and Brugger, Markus and Calviani, Marco and others},
+  Journal                  = {PoS},
+  Year                     = {2011},
+  Pages                    = {024},
+  Volume                   = {RD11},
+
+  Slaccitation             = {\%\%CITATION = POSCI,RD11,024;\%\%}
+}
+
+@Misc{ansys,
+  Title                    = {{ANSYS{\copyright}Academic Research}},
+
+  Author                   = {{Swanson Analysis System}, Inc.},
+  Note                     = {Material properties database},
+
+  Edition                  = {Release 14.5}
+}
+
+@Article{212327,
+  Title                    = {{Single event upset in avionics}},
+  Author                   = {Taber, A. and Normand, E.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {1993},
+
+  Month                    = {Apr},
+  Number                   = {2},
+  Pages                    = {120--126},
+  Volume                   = {40},
+
+  Doi                      = {10.1109/23.212327},
+  ISSN                     = {0018-9499},
+  Keywords                 = {SRAM chips; aircraft instrumentation; error correction; error detection; military equipment; neutron effects; 256×103 Bytes; 64×103 Bytes; SRAMs; aircraft altitudes; avionics; error detection and correction circuitry; single event upset; static random access memories; Aerospace electronics; Atmosphere; Circuit testing; Error correction; Laboratories; Military aircraft; Neutrons; SRAM chips; Semiconductor memory; Single event upset}
+}
+
+@TechReport{charmblown,
+  Title                    = {CHARM Montrac Blown-up BeamCharacterization using Aluminium Foils},
+  Author                   = {A. Thornton},
+  Institution              = {CERN},
+  Year                     = {2015},
+  Note                     = {EDMS no. 1554364},
+
+  Owner                    = {thornton},
+  Timestamp                = {2016.02.25}
+}
+
+@Article{7155495,
+  Title                    = {Raman Distributed Temperature Sensing at CERN},
+  Author                   = {Toccafondo, I. and Nannipieri, T. and Signorini, A. and Guillermain, E. and Kuhnhenn, J. and Brugger, M. and Di Pasquale, F.},
+  Journal                  = {Photonics Technology Letters, IEEE},
+  Year                     = {2015},
+
+  Month                    = {Oct},
+  Number                   = {20},
+  Pages                    = {2182-2185},
+  Volume                   = {27},
+
+  Doi                      = {10.1109/LPT.2015.2456029},
+  ISSN                     = {1041-1135},
+  Keywords                 = {Raman spectra;distributed sensors;fibre optic sensors;optical fibre losses;optical fibre testing;optical materials;temperature measurement;temperature sensors;CERN high-energy accelerator-mixed field facility;CERN large hadron collider;Raman distributed temperature sensors;Raman-based optical fiber sensors;fiber material properties;neutrons;photons;protons;radiation-induced attenuation temperature dependence;radiation-tolerant optical fibers;spatial resolution;wavelength-dependent losses;Optical fiber sensors;Optical fibers;Radiation effects;Spatial resolution;Temperature measurement;Temperature sensors;Raman scattering;fiber optics sensors;ionizing radiation;temperature measurements}
+}
+
+@TechReport{pic_calibration,
+  Title                    = {{Accurate PIC calibration be the use of a coincidence of two scintilators}},
+  Author                   = {Vincke, Helmut and Mayer, Sabine and Efthymiopoulos, Ilias and Fabich, Adrian and Forkel-Wirth, Doris and M\"{u}ller, Mario J. and Theis, Chris},
+  Year                     = {2004},
+  Note                     = {CERN-SC-2004-090-RP-TN},
+
+  Location                 = {Geneva, Switzerland},
+  Organization             = {CERN}
+}
+
+@Article{FLAIR1,
+  Title                    = {{FLAIR: A powerful but user friendly graphical interface for FLUKA}},
+  Author                   = {Vlachoudis, V and others},
+  Journal                  = {Proc. Int. Conf. on Mathematics, Computational Methods \& Reactor Physics (M\&C 2009), Saratoga Springs, New York},
+  Year                     = {2009}
+}
+
+@Misc{monte_carlo_method,
+  Title                    = {{Monte Carlo Method}},
+
+  Author                   = {Weisstein, Eric W.},
+  HowPublished             = {\url{http://mathworld.wolfram.com/MonteCarloMethod.html/}},
+  Note                     = {Accessed: 2014-05-18}
+}
+
+@Article{Wijnands_radmon,
+  Title                    = {{An on-line radiation monitoring system for the LHC machine and experimental caverns}},
+  Author                   = {Wijnands, T and Pignard, Christian and Tesarek, R},
+  Year                     = {2007},
+  Pages                    = {5 p}
+}
+
+@Misc{CERN_accel_website,
+  Title                    = {{CERN Accelerators Website}},
+  HowPublished             = {\url{http://home.web.cern.ch/about/accelerators}},
+  Note                     = {Accessed: 2014-05-20}
+}
+
+@Misc{CERN_website,
+  Title                    = {{CERN Website }},
+  HowPublished             = {\url{http://home.web.cern.ch/about}},
+  Note                     = {Accessed: 2014-05-20}
+}
+
+@Misc{ENDF,
+  Title                    = {{Evaluated Nuclear Data File (ENDF) }},
+  HowPublished             = {\url{https://www-nds.iaea.org/exfor/endf.htm}},
+  Note                     = {Accessed: 2014-05-19},
+
+  Organization             = {{Nuclear Energy Agency International Working Party on Evaluation Cooperation}}
+}
+
+@Misc{gafchrom,
+  Title                    = {{Gafchromic™ radiotherapy films}},
+  HowPublished             = {\url{http://www.ashland.com/products/gafchromic-radiotherapy-films}},
+  Note                     = {Accessed: 2014-05-20}
+}
+
+@Misc{GEM_website,
+  Title                    = {{CERN Gas Electron Multiplier (GEM)}},
+  HowPublished             = {\url{http://gdd.web.cern.ch/GDD/}},
+  Note                     = {Accessed: 2013-07-17}
+}
+
+@Article{CERN-BULL-2013-19-20,
+  Title                    = {{CERN Bulletin Issue No. 19-20/2013}},
+  Year                     = {2013}
+}
+
+@Book{knoll_E3,
+  Title                    = {{Radiation Detection and Measurement}},
+  Publisher                = {John Wiley and Sons},
+  Year                     = {1999},
+
+  Altauthor                = {G.F. Knoll},
+  Optedition               = {3}
+}
+
