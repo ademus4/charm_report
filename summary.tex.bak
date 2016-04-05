@@ -1,7 +1,7 @@
-\chapter{Summary}
+\section{Summary}
 
 The CHARM facility hosted on the T8 beam-line has been running since the autumn of 2014 and has since begun testing with users. There are a number of different configurations possible within the test area enabling testing of electronics in mixed-field radiation emulating many different known radiation environments (including atmosphere, space and accelerator alcoves). During the early commissioning period, each facility configuration was tested and the typical beam conditions for each have been described in the facility description chapter. \\
 
 Using the FLUKA Monte Carlo code, calculations have been performed to describe the radiation field, ranging from the spectra at the different test locations, to dose and particles fluences in and around the target. Following a number of measurements in the test area using the Radmon system, an initial analysis has been started to compare the measured values against those calculated using FLUKA. The first analysis shows a poor match with respect to dose where the calculations can be up to a factor 2 higher than the measurements. However the measurements are very close with the calculations for the high-energy hadrons across the various test positions. The analysis so far is limited to configurations with the copper target, however more datasets are available for future analysis. \\
 
-A more detailed analysis will follow to address the discrepancy for the dose calculations. Additional work is focusing on verifying the hardness factors with a series of measurements made in 2015 using an experimental SRAM based detector. \\
+A more detailed analysis will follow to address the discrepancy for the dose calculations \cite{matteo2016}. Future work will focus on verifying the hardness factors with a series of measurements made in 2015 using an experimental SRAM based detector. \\
