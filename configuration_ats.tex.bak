@@ -16,6 +16,7 @@
 \usepackage{subcaption}
 \usepackage{cite}
 \usepackage[table]{xcolor}
+\usepackage{lscape}
 
 %%% for the draft watermark
 \usepackage{draftwatermark}
